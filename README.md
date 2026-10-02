@@ -3,6 +3,9 @@
 > **"Organize. Track. Complete."**  
 > A professional, full-stack task management web application built for internship Task 2.
 
+## 🌐 Demo
+
+Live Demo: [YOUR_DEMO_LINK_HERE](https://task-2-task-management-application.onrender.com/)
 ---
 
 ## 📌 Project Overview
@@ -338,7 +341,7 @@ Do not deploy only the `dist` directory to a static host: that does not run the 
 
 ## 🌐 Demo
 
-Live Demo: YOUR_DEMO_LINK_HERE
+Live Demo: [YOUR_DEMO_LINK_HERE](https://task-2-task-management-application.onrender.com/)
 
 ---
 
