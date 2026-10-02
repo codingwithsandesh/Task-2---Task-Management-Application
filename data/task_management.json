@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "usr_demo_001",
+      "name": "Alex Turner",
+      "email": "alex.turner@taskflow.dev",
+      "password": "$2b$10$fH34ORVLCxF5Inze/JYXA.ZNtHEQNFjfCtBUMRqqD6UnAJIMnq6Du",
+      "created_at": "2026-09-30T15:42:21.851Z",
+      "updated_at": "2026-09-30T15:42:21.851Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "tsk_demo_001",
+      "user_id": "usr_demo_001",
+      "title": "Prepare Q4 Internship Progress Presentation",
+      "description": "Summarize full-stack architecture, API benchmarks, and database schema implementation for evaluation committee.",
+      "status": "In Progress",
+      "priority": "High",
+      "category": "Work",
+      "due_date": "2026-10-02",
+      "created_at": "2026-09-30T15:42:21.851Z",
+      "updated_at": "2026-09-30T15:42:21.851Z"
+    },
+    {
+      "id": "tsk_demo_002",
+      "user_id": "usr_demo_001",
+      "title": "Review MySQL Foreign Key Constraints & Indexes",
+      "description": "Ensure indexes on user_id, status, and due_date are optimized for high-volume dashboard queries.",
+      "status": "Completed",
+      "priority": "Medium",
+      "category": "Development",
+      "due_date": "2026-09-29",
+      "created_at": "2026-09-30T15:42:21.851Z",
+      "updated_at": "2026-09-30T15:42:21.851Z"
+    },
+    {
+      "id": "tsk_demo_003",
+      "user_id": "usr_demo_001",
+      "title": "Draft User Guide & API Documentation",
+      "description": "Document JWT authentication workflow, request schemas, and error codes for REST endpoints.",
+      "status": "Pending",
+      "priority": "Medium",
+      "category": "Documentation",
+      "due_date": "2026-10-05",
+      "created_at": "2026-09-30T15:42:21.851Z",
+      "updated_at": "2026-09-30T15:42:21.851Z"
+    },
+    {
+      "id": "tsk_demo_004",
+      "user_id": "usr_demo_001",
+      "title": "Conduct End-to-End Security Audit",
+      "description": "Verify password hashing salt rounds, JWT expiration handling, and input sanitization on all endpoints.",
+      "status": "Pending",
+      "priority": "High",
+      "category": "Security",
+      "due_date": "2026-10-01",
+      "created_at": "2026-09-30T15:42:21.851Z",
+      "updated_at": "2026-09-30T15:42:21.851Z"
+    },
+    {
+      "id": "tsk_demo_005",
+      "user_id": "usr_demo_001",
+      "title": "Schedule Team Code Review Session",
+      "description": "Sync with senior engineers to inspect database transaction isolation and WebSocket event broadcasting.",
+      "status": "Completed",
+      "priority": "Low",
+      "category": "Team",
+      "due_date": "2026-09-28",
+      "created_at": "2026-09-30T15:42:21.851Z",
+      "updated_at": "2026-09-30T15:42:21.851Z"
+    }
+  ]
+}

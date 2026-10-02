@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow – Task Management Application",
+  "description": "A full-stack task management web application built with React, TypeScript, Node.js, Express, and MySQL/SQL with JWT authentication, CRUD operations, and real-time updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
